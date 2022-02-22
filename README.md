@@ -1,5 +1,5 @@
 # Chess
-**This is my first ever app~**\
+**This is my first ever app~**
 > There's only 2 players mode 🤣, it can change theme color and undo!
 
 ![demo_green_theme](https://user-images.githubusercontent.com/85296548/155140298-979b8045-ace3-4cfa-a07e-74f0e7a83a13.png)\
